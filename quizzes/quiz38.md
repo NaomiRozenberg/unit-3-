@@ -1,0 +1,35 @@
+py```
+import random
+import matplotlib.pyplot as plt
+
+class SalemanMap:
+    def __init__(self):
+        self.x = []
+        self.y = []
+        self.names = []
+
+    def set_names(self, names):
+        self.names = names
+
+    def get_map(self):
+        for w in range(len(self.names)):
+            self.x.append(random.randint(0, 100))
+            self.y.append(random.randint(0, 100))
+
+        plt.scatter(self.x, self.y)
+        plt.xlabel("Distance (km)")
+        plt.ylabel("Distance (km)")
+        plt.xlim(0, 100)
+        plt.ylim(0, 100)
+
+        for i, name in enumerate(self.names):
+            plt.text(self.x[i], self.y[i], name)  # Add name to the plot
+
+        plt.show()
+
+c = SalemanMap()
+c.set_names(['Kobe', 'Gifu', 'Kobe', 'Tokyo'])
+print(c.names)
+c.get_map()
+print(c.x)
+```
