@@ -31,3 +31,6 @@ interest = accounting_program.calculate_interest()
 print("Compound Interest:", interest)
 ```
 <img width="1253" alt="Screenshot 2024-02-01 at 10 13 13" src="https://github.com/NaomiRozenberg/unit-3-/assets/142605919/8180bacc-8360-43ee-b231-e635ef609f09">
+
+![IMG_C0B1107BB624-1](https://github.com/NaomiRozenberg/unit-3-/assets/142605919/4391444a-08ac-4748-a26c-114bcc3a9cf0)
+
