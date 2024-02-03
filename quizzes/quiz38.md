@@ -36,3 +36,4 @@ print(c.x)
 <img width="1470" alt="Screenshot 2024-02-02 at 10 44 27" src="https://github.com/NaomiRozenberg/unit-3-/assets/142605919/75e25223-f1e1-40f3-8d9c-7d597ee14daf">
 
 
+![IMG_FC2B59E43D7A-1](https://github.com/NaomiRozenberg/unit-3-/assets/142605919/999430a3-0b3a-45f7-b6ba-fdcfde395896)
