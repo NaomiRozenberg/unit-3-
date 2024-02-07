@@ -18,4 +18,5 @@
       select item from ITEM where owner=4 or owner=18 / Dagger
 
 
-      
+      <img width="1470" alt="Screenshot 2024-02-07 at 10 13 43" src="https://github.com/NaomiRozenberg/unit-3-/assets/142605919/812edb87-51f6-43ad-80e8-7c80ed90d4eb">
+
