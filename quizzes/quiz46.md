@@ -1,4 +1,4 @@
-py``` 
+```py
 import sqlite3
 
 from kivymd.app import MDApp
@@ -95,4 +95,6 @@ create = """CREATE TABLE if not exists payments(
 db = DatabaseBridge("payments.db")
 db.run_query(create)
 db.close()
-test.run() ```
+test.run()
+```
+<img width="1470" alt="Screenshot 2024-02-15 at 10 49 41" src="https://github.com/NaomiRozenberg/unit-3-/assets/142605919/78c09f59-3507-4ab2-a3f9-8b3ed6efb75b">
