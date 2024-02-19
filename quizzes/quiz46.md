@@ -98,3 +98,7 @@ db.close()
 test.run()
 ```
 <img width="1470" alt="Screenshot 2024-02-15 at 10 49 41" src="https://github.com/NaomiRozenberg/unit-3-/assets/142605919/78c09f59-3507-4ab2-a3f9-8b3ed6efb75b">
+
+![IMG_1D9256DAFA28-1](https://github.com/NaomiRozenberg/unit-3-/assets/142605919/428ca168-a7d8-49e6-80f5-a2e4a04e93be)
+
+
