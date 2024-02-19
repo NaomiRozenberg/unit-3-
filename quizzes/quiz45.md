@@ -31,3 +31,4 @@ x.close()
 print("Your mean is", mean)
 ```
 <img width="1470" alt="Screenshot 2024-02-15 at 13 29 20" src="https://github.com/NaomiRozenberg/unit-3-/assets/142605919/0f119edc-2dbc-4c0d-80af-06b072735783">
+<img width="246" alt="Screenshot 2024-02-19 at 9 22 02" src="https://github.com/NaomiRozenberg/unit-3-/assets/142605919/d6912c3a-05cd-48f4-9ae6-b478f67eeba2">
