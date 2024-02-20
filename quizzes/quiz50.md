@@ -17,3 +17,5 @@ print(object1.get_duration())
 print(object2.get_duration())
 ```
 <img width="1470" alt="Screenshot 2024-02-19 at 10 28 28" src="https://github.com/NaomiRozenberg/unit-3-/assets/142605919/f9cc80ea-2093-4249-9244-a0dc33452660">
+
+![IMG_4EA3980E6B1E-1](https://github.com/NaomiRozenberg/unit-3-/assets/142605919/72d3c2f5-0077-4295-834f-841b09bfbbca)
