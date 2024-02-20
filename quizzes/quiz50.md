@@ -16,3 +16,4 @@ object2 = flight(flight_num='AA223', origin='New York', destination='Tokyo', dep
 print(object1.get_duration())
 print(object2.get_duration())
 ```
+<img width="1470" alt="Screenshot 2024-02-19 at 10 28 28" src="https://github.com/NaomiRozenberg/unit-3-/assets/142605919/f9cc80ea-2093-4249-9244-a0dc33452660">
