@@ -19,4 +19,4 @@ print(total_amount)
 <img width="1470" alt="Screenshot 2024-02-19 at 10 21 57" src="https://github.com/NaomiRozenberg/unit-3-/assets/142605919/65510261-158c-43b0-8b98-e0899cf15080">
 
 
-![Uploading IMG_70F2B2C9C05D-1.jpeg…]()
+![IMG_70F2B2C9C05D-1](https://github.com/NaomiRozenberg/unit-3-/assets/142605919/08e7ca69-0eed-483a-bada-2f83e8c8b735)
