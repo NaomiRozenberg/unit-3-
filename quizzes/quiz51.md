@@ -39,3 +39,4 @@ def print_object_info(obj, method_name):
 print_object_info(objectFlt, 'get_duration')
 print_object_info(objectAir, 'get_info')
 ```
+<img width="1470" alt="Screenshot 2024-04-01 at 12 11 28" src="https://github.com/NaomiRozenberg/unit-3-/assets/142605919/6addae49-4c87-43d9-a261-dd93a3f8e7cb">
