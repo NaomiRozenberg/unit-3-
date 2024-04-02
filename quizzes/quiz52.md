@@ -37,3 +37,4 @@ km_per_rotation = bicycle.wheel.get_perimeter() / 1000
 print(f"Distance traveled in kilometers per rotation: {km_per_rotation} km")
 ```
 <img width="1470" alt="Screenshot 2024-04-01 at 12 54 24" src="https://github.com/NaomiRozenberg/unit-3-/assets/142605919/e093ceb3-0bd0-473b-87e0-06307b000cd2">
+![IMG_5D7122D1AACD-1](https://github.com/NaomiRozenberg/unit-3-/assets/142605919/45a53e64-f4ae-45a8-abaa-7c2ed307231c)
