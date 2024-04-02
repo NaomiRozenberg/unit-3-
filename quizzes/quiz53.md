@@ -23,4 +23,4 @@ print(palindrome_list)
 ```
 
 <img width="1470" alt="Screenshot 2024-04-01 at 13 19 12" src="https://github.com/NaomiRozenberg/unit-3-/assets/142605919/7501fcf2-256d-4477-bbfe-fb81d158cb93">
-![IMG_6BFA44797CFE-1](https://github.com/NaomiRozenberg/unit-3-/assets/142605919/91aa13af-4ea0-476e-b922-3aa9ccaf4b32)
+![IMG_6BFA44797CFE-1](https://github.com/NaomiRozenberg/unit-3-/assets/142605919/81a93a33-8e35-4155-bab5-18c3bb1595e5)
