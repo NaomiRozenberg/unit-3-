@@ -23,4 +23,4 @@ dart1 = Darts(7, 7)
 print("Points earned for dart at coordinates (7, 7):", dart1.calculate_points())
 ```
 <img width="1470" alt="Screenshot 2024-04-02 at 23 57 31" src="https://github.com/NaomiRozenberg/unit-3-/assets/142605919/9315500b-556f-4f67-901c-5b938a58500a">
-![IMG_1C89022F9A46-1](https://github.com/NaomiRozenberg/unit-3-/assets/142605919/2fbe54a2-7392-42d9-acba-4127f73b9ff8)
+![IMG_1C89022F9A46-1](https://github.com/NaomiRozenberg/unit-3-/assets/142605919/8cc9e993-28b0-43be-b304-eb7fdf4de63c)
